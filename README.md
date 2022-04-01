@@ -13,3 +13,5 @@ This repository contains projects from all three branches/skillsets of the moder
 ## Data Engineering
 - Financial Reporting and ETL Pipeline Script in Python
   - Using public and free APIs to obtain, aggregate, and transform data to produce a simple hypotehtical report
+- Orchestrating an ETL Pipeline with Airflow
+- Analytics Engineering with DBT
