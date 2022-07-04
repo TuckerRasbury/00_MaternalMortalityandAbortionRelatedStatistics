@@ -8,7 +8,7 @@ This repository contains projects from all three branches/skillsets of the moder
 
 
 
-### 01. Data Wrangling Public Datasets w/ APIs and Python
+### 01. Data Wrangling Public Datasets For a Cause
 
 
 
