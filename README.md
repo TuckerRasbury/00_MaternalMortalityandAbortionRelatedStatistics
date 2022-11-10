@@ -30,6 +30,9 @@ The University of Colorado Boulder in no uncertain terms states that "banning ab
 - [After Roe Fell: Abortion Laws by State || Center for Reproductive Rights](https://reproductiverights.org/maps/abortion-laws-by-state/)
 - [Interactive Map: US Abortion Policies and Access After Roe || Guttmacher Institute](https://states.guttmacher.org/policies/)
 
+#### Networking Contacts
+- [Alvin Chang, US Head of Visuals and Data @ The Guardian](https://www.theguardian.com/profile/alvin-chang)
+
 ### 03. Insights Gained from Investigating Data
 
 
