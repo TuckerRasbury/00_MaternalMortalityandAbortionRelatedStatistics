@@ -29,6 +29,20 @@ Moreover, the US Republican party is advocating for a nationwide and federal abo
 
 Given the above, the GOP is advocating for a ban that will drive a spike in deaths throughout the country and that burden will be heaviest on black women.
 
+Excluding poltical realities, here are the medical and individual level factors that increase a person's risk for maternal morbidity and mortality [according to the Eunice Kennedy Shriver National Institute for Child Health and Human Development:](https://www.nichd.nih.gov/health/topics/maternal-morbidity-mortality/conditioninfo/factors).
+
+> - Existing or pre-pregnancy health conditions, such as cardiovascular disease, obesity, asthma, or a compromised immune system
+> - Older maternal age
+> - Lifestyle factors, such as being a current or former cigarette smoker
+> - Having twins, triplets, or other multiples
+> - Certain pregnancy complications:
+>    - Preeclampsia, a spike in blood pressure after the 20th week of pregnancy, increases a woman’s risk for high blood pressure, blot clots, and stroke later in life.2
+>    - Women who have gestational diabetes, high blood sugar during pregnancy, are at higher lifetime risk for diabetes (usually type 2) and for fatty liver disease.3,4
+> - Certain features of giving birth:
+>    - An NICHD-funded study found that first-time moms who delivered vaginally were at higher risk for pelvic floor disorders.
+>    - Although vaginal birth after cesarean (VBAC) is safe for some women, women who had certain types of incisions are at higher risk for rupture of the uterus, a rare but serious problem, during VBAC. A rupture can lead to infection, bleeding, and other problems.5
+> - Racial, ethnic, and socioeconomic backgrounds. Research shows disparities in the rates of maternal deaths in the United States, with black women and American Indian/Alaska Native women at highest risk for pregnancy-related death.
+
 ### 02. Collected Data and Feedback
 
 #### Data
