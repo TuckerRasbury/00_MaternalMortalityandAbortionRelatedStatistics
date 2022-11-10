@@ -19,6 +19,10 @@ As of 11/9/22, my research has yielded a handful of leads on useful data and has
 ### 01. What does the research say about abortion access and if it does or does not matter?
 The University of Colorado Boulder in no uncertain terms states that "banning abortion nationwide would lead to a 21% increase in the number of pregnancy-related deaths overall and a 33% increase among Black women" [[citation]](https://www.colorado.edu/today/2021/09/08/study-banning-abortion-would-boost-maternal-mortality-double-digits). Furthermore, they state that these deaths would be due to complications of being pregnant and delivering a baby. Deaths due to unsafe abortions or attempted abortions would be in **addition** to those estimates.
 
+Moreover, the US Republican party is advocating for a nationwide and federal abortion ban [[citation]](https://www.politico.com/newsletters/politico-pulse/2022/09/14/the-federal-abortion-ban-bill-is-here-and-it-has-some-republicans-stunned-00056510). This is not a hypothetical. It is a part of the party's platform. 
+
+Given the above, the GOP is advocating for a ban that will drive a spike in deaths throughout the country and that burden will be heaviest on black women.
+
 ### 02. Collected Data and Feedback
 
 #### Data
