@@ -35,8 +35,26 @@ The University of Colorado Boulder in no uncertain terms states that "banning ab
 
 ## Apprendix
 
-### Working List of Ideas
-- Financial Reporting and ETL Pipeline Script in Python
-  - Using public and free APIs to obtain, aggregate, and transform data to produce a simple hypotehtical report
-- Orchestrating an ETL Pipeline with Airflow
-- Analytics Engineering with DBT
+***Institutions***
+* [Centers for Disease Control and Prevention's National Center for Health Statistics (NCHS)](https://www.cdc.gov/nchs/maternal-mortality/data.htm)
+
+***Data Sources***
+* [National Center for Health Statistics. Compressed Mortality File, 1999-2016 (machine readable data file and documentation, CD‑ROM Series 20, No. 2V) as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program.  Hyattsville, Maryland. 2017.](https://www.cdc.gov/nchs/data_access/cmf.htm)
+
+* [Maternal deaths and mortality rates: Each state, the District of Columbia, United States, 2018‐2020](https://www.cdc.gov/nchs/maternal-mortality/MMR-2018-2020-State-Data.pdf)
+
+* [Centers for Disease Control and Prevention's Reproductive Health Data and Statistics](https://www.cdc.gov/reproductivehealth/data_stats/index.htm)
+
+
+***Articles/Academic Papers***
+* [University of Colorado Boulder - Study: Banning abortion would boost maternal mortality by double digits](https://www.colorado.edu/today/2021/09/08/study-banning-abortion-would-boost-maternal-mortality-double-digits)
+
+* [National Institute of Health's Office of Research on Women's Health - What Are Maternal Morbidity and Mortality?](https://orwh.od.nih.gov/mmm-portal/what-mmm)
+
+* [Nelson, D.B., Moniz, M.H. & Davis, M.M. Population-level factors associated with maternal mortality in the United States, 1997–2012. BMC Public Health 18, 1007 (2018)](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-018-5935-2)
+
+* [The Pew Charitable Trusts | Critics Fear Abortion Bans Could Jeopardize Health of Pregnant Women by Michael Ollove](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/06/22/critics-fear-abortion-bans-could-jeopardize-health-of-pregnant-women)
+
+* [National Institutes of Health | Eunice Kennedy Shriver National Institute of Child Health and Human Development | What factors increase the risk of maternal morbidity and mortality?](https://www.nichd.nih.gov/health/topics/maternal-morbidity-mortality/conditioninfo/factors#)
+
+* [The Guardian | Tracking Where Abortion Laws Stand in Every US State](https://www.theguardian.com/us-news/ng-interactive/2022/jun/28/tracking-where-abortion-laws-stand-in-every-state)
