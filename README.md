@@ -21,6 +21,8 @@ The University of Colorado Boulder in no uncertain terms states that "banning ab
 
 ### 02. Collected Data and Feedback
 - **Collected Data:** [Maternal deaths and mortality rates 2018-2020 [rates per 100k live births]](https://github.com/TuckerRasbury/00_MaternalMortalityandAbortionRelatedStatistics/blob/e83ebfd619306c5c9981265e4f624780afb0bb35/data/VitalStatistics_raw_data.xlsx)
+- **Collected Data:** [Guttmacher Data]()
+- **Collected Data:** [Nationaland StatePregnancy_PublicUse]()
 
 ### 03. Insights Gained from Investigating Data
 
