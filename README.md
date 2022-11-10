@@ -34,7 +34,17 @@ The University of Colorado Boulder in no uncertain terms states that "banning ab
 - [Alvin Chang, US Head of Visuals and Data @ The Guardian](https://www.theguardian.com/profile/alvin-chang)
 
 ### 03. Insights Gained from Investigating Data
+- **What is the state of abortion access by state?**
 
+_Planning to leverage Dataviz from Research Questions | Prt 2 | DataViz_
+
+- **Which states have the highest rates of maternal mortality? (Bottom 10)**
+
+_Planning to use Maternal Deaths and Mortality Rates from NCHS dataset_
+
+- **Which states have the lowest number of abortion providers? (Bottom 10)**
+
+_Planning to use Guttmacher dataset._
 
 ## Apprendix
 
