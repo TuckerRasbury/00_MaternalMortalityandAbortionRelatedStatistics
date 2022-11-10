@@ -16,13 +16,13 @@ As of 11/9/22, my research has yielded a handful of leads on useful data and has
 03. Mining available data to surface insights.
 
 
-## 01. What does the research say about abortion access and if it does or does not matter?
+### 01. What does the research say about abortion access and if it does or does not matter?
 
 
-## 02. Collected Data and Feedback
+### 02. Collected Data and Feedback
 
 
-## 03. Insights Gained from Investigating Data
+### 03. Insights Gained from Investigating Data
 
 
 ## Apprendix
