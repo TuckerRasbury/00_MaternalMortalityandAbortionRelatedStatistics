@@ -20,7 +20,7 @@ As of 11/9/22, my research has yielded a handful of leads on useful data and has
 The University of Colorado Boulder in no uncertain terms states that "banning abortion nationwide would lead to a 21% increase in the number of pregnancy-related deaths overall and a 33% increase among Black women" [[citation]](https://www.colorado.edu/today/2021/09/08/study-banning-abortion-would-boost-maternal-mortality-double-digits). Furthermore, they state that these deaths would be due to complications of being pregnant and delivering a baby. Deaths due to unsafe abortions or attempted abortions would be in **addition** to those estimates.
 
 ### 02. Collected Data and Feedback
-- **Collected Data:** Maternal deaths and mortality rates 2018-2020 [rates per 100k live births]()
+- **Collected Data:** [Maternal deaths and mortality rates 2018-2020 [rates per 100k live births]](https://github.com/TuckerRasbury/00_MaternalMortalityandAbortionRelatedStatistics/blob/e83ebfd619306c5c9981265e4f624780afb0bb35/data/VitalStatistics_raw_data.xlsx)
 
 ### 03. Insights Gained from Investigating Data
 
