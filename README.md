@@ -1,7 +1,7 @@
 # Culture Wars Over Abortion Access Lead to Death and other Spinechilling Statistics - An Ongoing Project
 
 ## Abstract
-In light of Roe v. Wade  being overturned in June of 2022 by the Supreme Court [[1]](https://www.npr.org/2022/06/24/1102305878/supreme-court-abortion-roe-v-wade-decision-overturn), I decided to channel my frustrations and technical skills towards exploring the data landscape of abortion access.
+In light of Roe v. Wade  being overturned in June of 2022 by the Supreme Court [[citation]](https://www.npr.org/2022/06/24/1102305878/supreme-court-abortion-roe-v-wade-decision-overturn), I decided to channel my frustrations and technical skills towards exploring the data landscape of abortion access.
 
 Herein, I conduct research and compile datasets with information on the state of abortion access, maternal mortality, and related information to better inform myself. Subsequently, I analyze that information with Python in a google collab data analytics environment, and take it a step further by networking with subject matter experts and journalists via LinkedIn. 
 
@@ -17,7 +17,7 @@ As of 11/9/22, my research has yielded a handful of leads on useful data and has
 
 
 ### 01. What does the research say about abortion access and if it does or does not matter?
-
+The University of Colorado Boulder in no uncertain terms states that "banning abortion nationwide would lead to a 21% increase in the number of pregnancy-related deaths overall and a 33% increase among Black women" [[citation]](https://www.colorado.edu/today/2021/09/08/study-banning-abortion-would-boost-maternal-mortality-double-digits).
 
 ### 02. Collected Data and Feedback
 
