@@ -10,6 +10,12 @@ While a passion project, this speaks to my professional interests and personal v
 ## Executive Summary - In Progress
 As of 11/9/22, my research has yielded a handful of leads on useful data and has led to networking with real journalists.
 
+## Tools Used
+- Python via Google Collab
+- Research obtained via publicly available resources
+- Github
+- Datasets in .csv and .xlsx format
+
 ## Research Questions
 01. What does available research say about the effect of changes in abortion access? Why does any of this matter
 02. What public data can be collected datasets and what feedback can be obtained via networking.
