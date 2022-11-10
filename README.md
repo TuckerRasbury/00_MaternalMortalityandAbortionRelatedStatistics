@@ -12,7 +12,7 @@ As of 11/9/22, my research has yielded a handful of leads on useful data and has
 
 ## Research Questions
 01. What does available research say about the effect of changes in abortion access? Why does any of this matter
-02. Collected datasets and feedback gained from networking.
+02. What public data can be collected datasets and what feedback can be obtained via networking.
 03. Mining available data to surface insights.
 
 
