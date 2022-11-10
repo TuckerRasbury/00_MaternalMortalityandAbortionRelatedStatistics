@@ -1,15 +1,28 @@
-# For Potential Employers
-__
+# Culture Wars Over Abortion Access Lead to Death and other Spinechilling Statistics - An Ongoing Project
 
-### Abstract
-This repository contains projects from all three branches/skillsets of the modern data profession, ie. analytics, science, and engineering. Throughout those projects, I do my best to demonstrate an intermediate working level of competency with different business intelligcnce tools. Throughout each section are the more universal skillsets of the profession (wrangingling, cleaning, analysis, and dataviz). I want to use this space a professional sandbox, a data workshop on public display to throw in some accountablity and hopefully foster community across junior professionals.
+## Abstract
+In light of Roe v. Wade  being overturned in June of 2022 by the Supreme Court [[1]](https://www.npr.org/2022/06/24/1102305878/supreme-court-abortion-roe-v-wade-decision-overturn), I decided to channel my frustrations and technical skills towards exploring the data landscape of abortion access.
 
-## Table of Contents
+Herein, I conduct research and compile datasets with information on the state of abortion access, maternal mortality, and related information to better inform myself. Subsequently, I analyze that information with Python in a google collab data analytics environment, and take it a step further by networking with subject matter experts and journalists via LinkedIn. 
+
+While a passion project, this speaks to my professional interests and personal values. Abortion is healthcare and by doing this project I hope to better inform myself on the data landscape on the subject while also practicing my coding skills thus bridging the gap between armchair academic and useful applicable knowledge.
+
+## Executive Summary - In Progress
+As of 11/9/22, my research has yielded a handful of leads on useful data and has led to networking with real journalists.
+
+## Research Questions
+01. What does available research say about the effect of changes in abortion access? Why does any of this matter
+02. Collected datasets and feedback gained from networking.
+03. Mining available data to surface insights.
 
 
+## 01. What does the research say about abortion access and if it does or does not matter?
 
-### 01. Data Wrangling Public Datasets For a Cause
 
+## 02. Collected Data and Feedback
+
+
+## 03. Insights Gained from Investigating Data
 
 
 ## Apprendix
