@@ -70,7 +70,7 @@ _Planning to use Maternal Deaths and Mortality Rates from NCHS dataset_
 
 _Planning to use Guttmacher dataset._
 
-## Apprendix
+## Appendix
 
 ***Institutions***
 * [Centers for Disease Control and Prevention's National Center for Health Statistics (NCHS)](https://www.cdc.gov/nchs/maternal-mortality/data.htm)
