@@ -1,4 +1,4 @@
-# Culture Wars Over Abortion Access Lead to Death and other Spinechilling Statistics - An Ongoing Project
+# The Impact of Culture Wars on US Abortion Access and Maternal Mortality- An Ongoing Project
 
 ## Abstract
 In light of Roe v. Wade  being overturned in June of 2022 by the Supreme Court [[citation]](https://www.npr.org/2022/06/24/1102305878/supreme-court-abortion-roe-v-wade-decision-overturn), I decided to channel my frustrations and technical skills towards exploring the data landscape of abortion access.
