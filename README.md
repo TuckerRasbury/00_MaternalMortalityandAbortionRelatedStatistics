@@ -74,6 +74,8 @@ _Planning to use Guttmacher dataset._
 
 ***Institutions***
 * [Centers for Disease Control and Prevention's National Center for Health Statistics (NCHS)](https://www.cdc.gov/nchs/maternal-mortality/data.htm)
+  
+* [Guttmacher Institute | Overview of Abortion Laws](https://www.guttmacher.org/state-policy/explore/overview-abortion-laws)
 
 ***Data Sources***
 * [National Center for Health Statistics. Compressed Mortality File, 1999-2016 (machine readable data file and documentation, CD‑ROM Series 20, No. 2V) as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program.  Hyattsville, Maryland. 2017.](https://www.cdc.gov/nchs/data_access/cmf.htm)
