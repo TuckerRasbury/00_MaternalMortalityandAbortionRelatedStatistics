@@ -57,6 +57,9 @@ Excluding poltical realities, here are the medical and individual level factors 
 #### Networking Contacts
 - [Alvin Chang, US Head of Visuals and Data @ The Guardian](https://www.theguardian.com/profile/alvin-chang)
 
+#### Podcasts
+- [The New York Times | The Daily Podcast | Ending Roe Was Supposed to Reduce Abortions. It Didn't | States that banned abortion after the Dobbs decision saw more births. But, Nationwide, terminations rose slightly](https://www.nytimes.com/2023/11/29/podcasts/the-daily/dobbs-abortions-roe.html)
+
 ### 03. Insights Gained from Investigating Data
 - **What is the state of abortion access by state?**
 
